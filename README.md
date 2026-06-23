@@ -6,10 +6,7 @@
   <p align="center"><h3><em>"My code always tells the truth — usually straight to the console as an <code>Uncaught Error</code>."</em></h3></p>
 </blockquote>
 
-<p align="center">
-  On a serious note, I build independent software, juggling technologies to fit any task.<br>
-  I blur the lines between web and desktop, creating full-cycle products.
-</p>
+<p>On a serious note, I build independent software, juggling technologies to fit any task. I blur the lines between web and desktop, creating full-cycle products.</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
@@ -33,19 +30,19 @@
   <summary>📐 <strong>Web Development</strong></summary>
   <br>
   <p>
-    <strong>Languages:</strong><br>
+    <strong>Languages:</strong>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
     <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
   </p>
   <p>
-    <strong>Framework & Ecosystem:</strong><br>
+    <strong>Framework & Ecosystem:</strong>
     <a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
     <a href="https://rxjs.dev/"><img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" /></a>
     <a href="https://material.angular.io/"><img src="https://img.shields.io/badge/Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white" /></a>
     <a href="https://primeng.org/"><img src="https://img.shields.io/badge/PrimeNG-495057?style=for-the-badge&logo=prime&logoColor=white" /></a>
   </p>
   <p>
-    <strong>Styles & Layout:</strong><br>
+    <strong>Styles & Layout:</strong>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
     <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass%20%2F%20SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
