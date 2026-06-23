@@ -75,7 +75,7 @@
     <strong>A smart screenshot tool for macOS and Windows.</strong> Flexible screen capture, built-in editor, and instant uploading to Google Drive or copying to clipboard. Built securely with context isolation.
   </p>
   <p>
-    <a href="https://i-am-jester.github.io/GScreenshot/index.html"><img src="https://img.shields.io/badge/Website-Visit%20Site-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+    <a href="https://i-am-jester.github.io/GScreenshot/"><img src="https://img.shields.io/badge/Visit%20Website-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
   </p>
   <p>
     <a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" /></a>
@@ -84,7 +84,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary>🔮 <strong>More projects coming soon...</strong></summary>
   <br>
   <p><em>"The Jester's lab never sleeps. Crafting innovative utilities, experimental web apps, and next-gen tools that challenge the status quo. Stay tuned — the next trick is already in production."</em></p>
