@@ -64,6 +64,32 @@
   <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" /></a>
 </details>
 
+---
+
+### 🚀 Featured Projects
+
+<details open>
+  <summary>📸 <strong>GScreenshot: Screenshot Tool</strong></summary>
+  <br>
+  <p>
+    <strong>A smart screenshot tool for macOS and Windows.</strong> Flexible screen capture, built-in editor, and instant uploading to Google Drive or copying to clipboard. Built securely with context isolation.
+  </p>
+  <p>
+    <a href="https://i-am-jester.github.io/GScreenshot/index.html"><img src="https://img.shields.io/badge/Website-Visit%20Site-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  </p>
+  <p>
+    <a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" /></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+    <a href="https://cloud.google.com/drive"><img src="https://img.shields.io/badge/Google_Drive_API-4285F4?style=flat-square&logo=googledrive&logoColor=white" /></a>
+  </p>
+</details>
+
+<details>
+  <summary>🔮 <strong>More projects coming soon...</strong></summary>
+  <br>
+  <p><em>"The Jester's lab never sleeps. Crafting innovative utilities, experimental web apps, and next-gen tools that challenge the status quo. Stay tuned — the next trick is already in production."</em></p>
+</details>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
