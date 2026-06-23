@@ -1,28 +1,24 @@
 # Hi, I'm Jester!
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- ЛЕВАЯ КОЛОНКА: О себе и философия -->
-    <td width="55%" valign="top">
-      <p><strong>My code always tells the truth — usually straight to the console as an <code>Uncaught Error</code>.</strong></p>
-      <p>On a serious note, I build independent software, juggling technologies to fit any task. I blur the lines between web and desktop, creating full-cycle products.</p>
-      <br>
-      <details>
-        <summary><strong>🎭 Read my development philosophy...</strong></summary>
-        <br>
-        <ul>
-          <li><strong>🌐 Web:</strong> Making websites and web apps that don't crash (at least not while you're looking at them).</li>
-          <li><strong>💻 Desktop:</strong> Wrapping ideas into neat interfaces where the "Close" button actually closes the app.</li>
-          <li><strong>🧠 Philosophy:</strong> Code should be clean, design should be minimalist, and bugs should be well-behaved.</li>
-        </ul>
-      </details>
-    </td>
-    <!-- ПРАВАЯ КОЛОНКА: Компактная статистика -->
-    <td width="45%" valign="top" align="right">
-      <img src="https://github-readme-stats.vercel.app/api?username=i-am-jester&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Jester's GitHub Stats" width="100%" />
-    </td>
-  </tr>
-</table>
+<blockquote>
+  <p><h3><em>"My code always tells the truth — usually straight to the console as an <code>Uncaught Error</code>."</em></h3></p>
+</blockquote>
+
+On a serious note, I build independent software, juggling technologies to fit any task. I blur the lines between web and desktop, creating full-cycle products.
+
+---
+
+### 🎭 Development Philosophy
+
+<details open>
+  <summary><strong>Click to collapse philosophy</strong></summary>
+  <br>
+  <ul>
+    <li><strong>🌐 Web:</strong> Making websites and web apps that don't crash (at least not while you're looking at them).</li>
+    <li><strong>💻 Desktop:</strong> Wrapping ideas into neat interfaces where the "Close" button actually closes the app.</li>
+    <li><strong>🧠 Philosophy:</strong> Code should be clean, design should be minimalist, and bugs should be well-behaved.</li>
+  </ul>
+</details>
 
 ---
 
@@ -69,5 +65,7 @@
 
 ---
 
-### 📊 Language Distribution
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-jester&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" width="100%" />
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=i-am-jester&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Jester's GitHub Stats" height="180px" />
+</p>
