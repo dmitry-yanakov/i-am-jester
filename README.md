@@ -51,14 +51,14 @@
 </details>
 
 <details open>
-  <summary>💻 <strong>Desktop Development</strong></summary>
+  <summary>💻 <strong>Desktop Development</strong></summary></br>
   <a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" /></a>
   <a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" /></a>
   <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" /></a>
 </details>
 
 <details open>
-  <summary>🚀 <strong>Tools & Environment</strong></summary>
+  <summary>🚀 <strong>Tools & Environment</strong></summary></br>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
   <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" /></a>
