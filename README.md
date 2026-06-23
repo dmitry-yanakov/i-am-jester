@@ -25,7 +25,7 @@ On a serious note, I build independent software, juggling technologies to fit an
 ### 🛠️ Interactive Toolbox
 
 <details open>
-  <summary>🌐 <strong>Web Development</strong> (Click to collapse)</summary>
+  <summary>🌐 <strong>Web Development</strong></summary>
   <p>
     <strong>Languages:</strong><br>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
@@ -65,7 +65,15 @@ On a serious note, I build independent software, juggling technologies to fit an
 
 ---
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=i-am-jester&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Jester's GitHub Stats" height="180px" />
+### 🔮 Pick a Card, Any Card...
+<details>
+  <summary>🃏 <strong>Click to draw a card...</strong></summary>
+  <br>
+  <p><em>"You drew the Joker. It means your next deployment will work on the first try. Or break completely. There is no in-between."</em></p>
+</details>
+
+---
+
+<p align="center">
+  <sub>🛸 <strong>Jester's Disclaimer:</strong> No production servers were permanently harmed during the making of these repositories. Probably.</sub>
 </p>
